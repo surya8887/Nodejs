@@ -11,4 +11,3 @@ console.log('CPU Architecture:', os.arch());
 // Get the total memory in bytes
 console.log('Total Memory (bytes):', os.totalmem());
 
-
